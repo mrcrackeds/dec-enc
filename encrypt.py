@@ -1,12 +1,12 @@
 #!/usr/bin/python
 
-############################### TOOLS MAKED BY G3D1T
+############################### TOOLS MAKED BY MR.CRACKED
 import os
 import urllib2
 import json
 from termcolor import colored, cprint
 from base64 import *
-############################### RECODE AUTO JAHANNAM
+############################### MY TEAM MAHISKA CYBER TEAM
 
 os.system("reset")
 
