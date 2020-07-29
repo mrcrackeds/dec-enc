@@ -23,5 +23,5 @@ text = raw_input("Input Encrypt Base64 Text : ")
 dec = b64decode(text)
 print "Decrypted Text is :",dec
 
-text = colored('Thanks For Using This Tools :3, dont forget follow my instagram @nathandeft' , 'white', attrs=['reverse', 'blink'])
+text = colored('Thanks For Using This Tools :3, dont forget follow my instagram @cracked_212' , 'white', attrs=['reverse', 'blink'])
 print(text)
