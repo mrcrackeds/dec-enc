@@ -23,5 +23,5 @@ text = raw_input("Input Text : ")
 enc = b64encode(text)
 print "Encrypted Text :",enc
 
-text = colored('Thanks For Using This Tools :3, dont forget follow my instagram @nathandeft' , 'white', attrs=['reverse', 'blink'])
+text = colored('Thanks For Using This Tools :3, dont forget follow my instagram @cracked_212' , 'white', attrs=['reverse', 'blink'])
 print(text)
